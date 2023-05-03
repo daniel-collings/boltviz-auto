@@ -29,3 +29,4 @@ No project is truly finished as this is certainly not the exception. Provided mo
 - [ ] Mock contact form with recaptcha
 - [ ] Light/dark mode toggle
 - [ ] Login portal to redirect admin to CMS
+- [ ] Currently not making use of ISR and newly published data will only be visible on build. Consider using the `.listen` option to watch for documents changing.
