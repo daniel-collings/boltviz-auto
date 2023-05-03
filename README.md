@@ -19,13 +19,13 @@ To learn more about Next.js, take a look at the following resources:
 
 No project is truly finished as this is certainly not the exception. Provided more time to refine the project I would cover such areas as listed below:
 
-[] Mobile nav transition animation for open/close
-[] A11y audit
-[] Cypress e2e testing
-[] Further content sections to provide more depth
-[] Subtle animations on scroll
-[] Gallery view on a specific car
-[] Hotspot the images used for an improved UI
-[] Mock contact form with recaptcha
-[] Light/dark mode toggle
-[] Login portal to redirect admin to CMS
+- [ ] Mobile nav transition animation for open/close
+- [ ] A11y audit
+- [ ] Cypress e2e testing
+- [ ] Further content sections to provide more depth
+- [ ] Subtle animations on scroll
+- [ ] Gallery view on a specific car
+- [ ] Hotspot the images used for an improved UI
+- [ ] Mock contact form with recaptcha
+- [ ] Light/dark mode toggle
+- [ ] Login portal to redirect admin to CMS
